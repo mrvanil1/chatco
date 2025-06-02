@@ -1,7 +1,7 @@
-## sprang zone
+# sprang zone
 
-# post app
+## post app
 you can post the photo/text/html and...
 
-# post html
+## post html
 enter html and post this
