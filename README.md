@@ -1,11 +1,7 @@
-# CHATCO
-   یک برنامه چت آنلاین ساده با قابلیت ایجاد کانال و گروه
+## sprang zone
 
-   ## ویژگی‌ها
-   - احراز هویت کاربران
-   - ایجاد کانال/گروه
-   - ارسال پیام‌های خصوصی
+# post app
+you can post the photo/text/html and...
 
-   ## نحوه اجرا
-   برنامه به صورت خودکار در آدرس زیر قابل دسترسی است:
-   https://mrvanil1.github.io/chatco/
+# post html
+enter html and post this
